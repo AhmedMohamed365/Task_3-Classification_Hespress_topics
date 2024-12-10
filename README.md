@@ -1,6 +1,14 @@
 # Task_3-Classification_Hespress_topics
  Classifying new articles to their corresponding topic value
 
+ Task 1 - spell checker : 
+ 
+ https://github.com/AhmedMohamed365/Task1-spellingChecker
+ 
+ Task 2 - exploratory data analysis of the data : 
+ 
+https://github.com/AhmedMohamed365/Task-2-EDA_Hespress_Dataset
+
  The training was done by :
  * Preprocessing data ( removing stop words , stemming).
  * Normalizing text by removing different diacritics.
